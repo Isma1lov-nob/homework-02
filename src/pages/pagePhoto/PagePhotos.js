@@ -1,6 +1,6 @@
-// import React from 'react'
+import React from 'react'
 import {useEffect, useState } from 'react'
-import { Link } from 'react-router-dom';
+
 import Photo from './../../components/photo/Photo';
 
 export default function PagePhotos() {

@@ -18,7 +18,7 @@ export default function InfoPhoto() {
 
     useEffect (() => {
     getPhotoInfo()
-    }, [])
+    }, )
 
   return (
         <div>
